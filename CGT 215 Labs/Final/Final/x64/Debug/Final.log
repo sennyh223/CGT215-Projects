@@ -1,0 +1,4 @@
+﻿  Final.cpp
+C:\Users\Senny\Documents\CGT 215\Final\Final\Final.cpp(67,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Senny\Documents\CGT 215\Final\Final\Final.cpp(79,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Final.vcxproj -> C:\Users\Senny\Documents\CGT 215\Final\x64\Debug\Final.exe

@@ -1,0 +1,7 @@
+﻿  Game of Life.cpp
+  The contents of <any> are available only with C++17 or later.
+C:\Users\Senny\Documents\CGT 215\Game of Life\packages\SFPhysics.2.0.1\build\native\include\SFPhysics\BoundsCollisionResult.h(9,2): warning C4099: 'sfp::BoundsCollisionResult': type name first seen using 'class' now seen using 'struct'
+C:\Users\Senny\Documents\CGT 215\Game of Life\packages\SFPhysics.2.0.1\build\native\include\SFPhysics\BoundsCollisionResult.h(8): message : see declaration of 'sfp::BoundsCollisionResult'
+C:\Users\Senny\Documents\CGT 215\Game of Life\Game of Life\Game of Life.cpp(66,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Senny\Documents\CGT 215\Game of Life\Game of Life\Game of Life.cpp(66,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Game of Life.vcxproj -> C:\Users\Senny\Documents\CGT 215\Game of Life\x64\Debug\Game of Life.exe
