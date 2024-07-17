@@ -1,0 +1,4 @@
+﻿  Lab 4.cpp
+C:\Users\senny\Documents\CGT 215 Labs\Lab_4\Lab 4\Lab 4\Lab 4.cpp(101,13): error C2601: 'main': local function definitions are illegal
+C:\Users\senny\Documents\CGT 215 Labs\Lab_4\Lab 4\Lab 4\Lab 4.cpp(68): message : this line contains a '{' which has not yet been matched
+C:\Users\senny\Documents\CGT 215 Labs\Lab_4\Lab 4\Lab 4\Lab 4.cpp(68): fatal  error C1075: '{': no matching token found

@@ -1,0 +1,4 @@
+﻿  Lab 4.cpp
+C:\Users\senny\Documents\CGT 215 Labs\Lab 4\Lab 4\Lab 4.cpp(17,17): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+C:\Users\senny\Documents\CGT 215 Labs\Lab 4\Lab 4\Lab 4.cpp(52,4): error C2562: 'arithmetic': 'void' function returning a value
+C:\Users\senny\Documents\CGT 215 Labs\Lab 4\Lab 4\Lab 4.cpp(33): message : see declaration of 'arithmetic'

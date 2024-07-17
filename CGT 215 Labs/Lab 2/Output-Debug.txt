@@ -1,0 +1,14 @@
+﻿'Lab 2.exe' (Win32): Loaded 'C:\Users\senny\Documents\CGT 215 Labs\Lab 2\Lab 2\x64\Debug\Lab 2.exe'. Symbols loaded.
+'Lab 2.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'Lab 2.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'Lab 2.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'Lab 2.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'Lab 2.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'Lab 2.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'Lab 2.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 0x6480 has exited with code 0 (0x0).
+'Lab 2.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'Lab 2.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+The thread 0xa7c has exited with code 0 (0x0).
+The thread 0x23e8 has exited with code 0 (0x0).
+The program '[17636] Lab 2.exe' has exited with code 0 (0x0).

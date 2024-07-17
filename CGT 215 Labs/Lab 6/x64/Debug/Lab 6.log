@@ -1,0 +1,4 @@
+﻿  Lab 6.cpp
+C:\Users\senny\Documents\CGT 215 Labs\Lab 6\Lab 6.cpp(28,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\senny\Documents\CGT 215 Labs\Lab 6\Lab 6.cpp(29,21): warning C4018: '<': signed/unsigned mismatch
+  Lab 6.vcxproj -> C:\Users\senny\Documents\CGT 215 Labs\Lab 6\x64\Debug\Lab 6.exe
